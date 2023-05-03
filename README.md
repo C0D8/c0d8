@@ -18,5 +18,4 @@
   <a href="https://www.linkedin.com/in/matheus-a-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-![99's Github Stats](https://github-readme-stats.vercel.app/api?username=Guedesou&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-  https://github-readme-stats.vercel.app/api?username=c0d8&show_icons=true&theme=transparent&include_all_commits=true&count_private=true
+ ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=c0d8&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
