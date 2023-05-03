@@ -1,7 +1,7 @@
 ## Olá! Eu me chamo Matheus, seja bem vindo ao meu perfil!
-<div align="center">
+<div align="center", display="flex", flex-direction="column">
   <a href="https://github.com/C0D8">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c0d8&bg_color=333,fff&title_color=fff&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c0d8&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0d8&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 <div style="display: inline_block"><br>
@@ -18,4 +18,3 @@
   <a href="https://www.linkedin.com/in/matheus-a-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
- ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=c0d8&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
