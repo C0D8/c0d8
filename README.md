@@ -1,7 +1,7 @@
 ## Olá! Eu me chamo Matheus, seja bem vindo ao meu perfil!
 <div align="center">
   <a href="https://github.com/C0D8">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c0d8&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guedesou&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0d8&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 <div style="display: inline_block"><br>
@@ -17,3 +17,6 @@
   <a href = "mailto:matheus.aguiar.ismart@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-a-jesus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  
+![99's Github Stats](https://github-readme-stats.vercel.app/api?username=Guedesou&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+  https://github-readme-stats.vercel.app/api?username=c0d8&show_icons=true&theme=transparent&include_all_commits=true&count_private=true
